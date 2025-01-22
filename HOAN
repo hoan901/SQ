@@ -1,4 +1,4 @@
-local UiMakeLib = loadstring(game:HttpGet("https://github.com/hoan901/TR/blob/main/ANHHOAN%20HUD"))()
+
 local Notify = UiMakeLib:MakeNotify({
 	["Title"] = "ANH HOAN",
 	["Description"] = "Notification",
