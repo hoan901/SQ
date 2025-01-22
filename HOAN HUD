@@ -1,4 +1,4 @@
-local UiMakeLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Msunehub/Uilm/refs/heads/main/UiMat1.lua"))()
+
 local Notify = UiMakeLib:MakeNotify({
 	["Title"] = "ANH HOAN",
 	["Description"] = "Notification",
